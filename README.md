@@ -1,7 +1,7 @@
 # courses-website-backend
 hi 😊
 Im Abdelrahman swidan 🧑‍💻 and this my first Node Js project for me 
-did it for my practical exam in course bject-oriented databases in fuclity of computer informatics suez canal university ❤️
+did it for my practical exam in course object-oriented databases in fuclity of computer informatics suez canal university ❤️
 in this project i used nodeJS and the package manager NPM and installed the following packages from it
 =>express that provides simple APIs that its role payloding ip:port and parsing TCP and HTTP request to cool my mind about that problems 😂
 =>mongoose to connect mongoDB and to be a mediator with my DB to do my functions 👌
