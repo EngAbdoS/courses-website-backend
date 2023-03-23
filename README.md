@@ -22,19 +22,9 @@ in this project i used nodeJS and the package manager NPM and installed the foll
                                        //        \)  "SWIDAN" (/         //
                                        //================================//
 
-in this basic project i designed basic schema for three collections "courses","teachers" and "students" 
-created a data model from all of them and end points to do the following 
-=>fetch all recordes 
-=>fetch the first course with specific name enterd by user
-=>fetch all courses less than specific price enterd by user
-=>search for a specific record by its ID with validation enterd by user
-=>update a specific record by its ID with validation enterd by user
-and tested all this end points in postman 😉
+in this basic project i designed basic schema for three collections "courses"," teachers" and "students" created a data model from all of them and end points to do the following =>fetch all records =>fetch the first course with specific name entered by user =>fetch all courses less than specific price entered by user =>search for a specific record by its ID with validation entered by user =>update a specific record by its ID with validation entered by user and tested all this end points in postman  😉
 
-
-in the basic structur of this project i used express router and routed all end points 🚶
-and used exprees also to parse json format of data using the new modul "exprees.json"🚶
-
+in the basic structure of this project i used express router and routed all end points  and used express also to parse json format of data using the new module "express.json"
 bye 😊
 ////////////////////////////////////////
 email : eng.abdelrahman.swidan@gmail.com
